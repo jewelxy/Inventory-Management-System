@@ -42,5 +42,6 @@ The system provides some other awesome features which include instant invoice ca
 
 
 <h2>Note</h2>
-This invoice system can be used for any type of invoicing from general in-house invoicing, e-commerce, to product and services invoicing. However, System may contain bugs. [Feel free Contact](https://www.linkedin.com/in/jewelranawebexpart/).
+This invoice system can be used for any type of invoicing from general in-house invoicing, e-commerce, to product and services invoicing. However, System may contain bugs.
+[Feel free Contact](https://www.linkedin.com/in/jewelranawebexpart/)
  
